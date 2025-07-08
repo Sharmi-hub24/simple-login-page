@@ -1,0 +1,74 @@
+    body {
+      color: rgb(255, 255, 255);
+      font-style: oblique;
+      font-family: Arial, sans-serif;
+      background-image: url(https://static.vecteezy.com/system/resources/thumbnails/039/617/725/small_2x/ai-generated-polished-shiny-beautiful-black-car-on-dark-isolated-background-for-website-or-print-design-generative-ai-free-photo.jpg);
+      padding: 20px;
+      background-repeat: no-repeat;
+      background-size: cover;
+      margin-right: 1000px;
+
+    }
+
+    .form-container {
+      
+      padding: 20px;
+      width: 400px;
+      margin: auto;
+      border: 5px ;
+      border-radius: 40px ;
+      box-shadow: -10px -10px 10px grey;
+      
+    }
+
+    table {
+      width: 100%;
+      border-collapse: collapse;
+    }
+
+    td {
+      padding: 10px;
+      vertical-align: top;
+    }
+
+    label {
+      font-weight: bold;
+    }
+
+    input, select {
+      width: 100%;
+      padding: 8px;
+      margin-top: 5px;
+      border: 1px solid #ccc;
+      border-radius: 10px;
+    }
+
+    button {
+      padding: 10px 20px;
+      margin: 10px 5px 0;
+      border: 3px solid black;
+      border-radius: 10px;
+      background-color: #444b45;
+      color: white;
+      cursor: pointer;
+    }
+
+    button[type="reset"] {
+      background-color: #5c4547;
+    }
+
+    button:hover {
+      opacity: 0.9;
+    }
+    .txt{
+      float: left;
+      text-align: center;
+     text-shadow: #000000;
+     font-size: 470%;
+     font-weight: bolder;
+     margin-left: 1000px;
+     margin-top: -500px;
+     text-decoration: overline;
+     color: darkgrey;
+    }
+  
